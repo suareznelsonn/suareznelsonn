@@ -1,4 +1,4 @@
-- Version 1.0
+- Version 1.1
 - 👋 Hi, I’m @suareznelsonn
 - 👀 I’m interested in Automatic Payment Testing
 - 🌱 I’m currently learning Continuous execution using Jenkins
